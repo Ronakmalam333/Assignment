@@ -3,8 +3,8 @@ import Navbar from "@/components/Navbar";
 import "./globals.css";
 
 export const metadata = {
-  title: "TechCo - Modern Web Solutions",
-  description: "Responsive Next.js app with theme toggle",
+  title: "Dev-Hire - Hire Top Developers",
+  description: "Responsive Next.js app with theme toggle assignment",
 };
 
 export default function RootLayout({ children }) {
